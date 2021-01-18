@@ -1,0 +1,37 @@
+body{
+	padding:0px;	
+	margin: 0px;
+}
+
+.col_added{
+	height: 100vh;
+	text-align: center;
+	border: 1px solid;
+	margin: 1%;
+}
+
+.col_header{
+	border: 1px solid;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+#remove_column{
+	margin-top: 1%;
+}
+
+#edit_column_title{
+	margin-top: 1%;
+}
+
+#user_card{
+	padding-left: 20px;	
+}
+
+li{
+	list-style-type: none;
+	margin-left: -40px;
+	margin-top: 1%;
+}
+
